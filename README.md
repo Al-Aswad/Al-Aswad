@@ -4,5 +4,5 @@
 - 📫 How to reach me: hajaraswadkom@gmail.com or https://www.linkedin.com/in/al-aswad/
 
 
-![Al-Aswad's GitHub stats](https://github-readme-stats.vercel.app/api?username=al-aswad&show_icons=true&theme=radical)
+![Al-Aswad's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswadwk&show_icons=true&theme=radical)
 
