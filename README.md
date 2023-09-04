@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Hajar Aswad, a Web Developer.
-- 🌱 I’m currently learning PHP, Go, JavaScript, clean code, distributed computing, and performance improvement.
-- 💞️ I’m looking to collaborate as a Software Engineer.
+- 👋 Hi, I’m Hajar Aswad, a Fullstack Developer.
+- 🌱 I’m currently learning PHP, Go, JavaScript,Dart(Flutter), clean code, distributed computing, and performance improvement.
 - 📫 How to reach me: hajaraswadkom@gmail.com or https://www.linkedin.com/in/al-aswad/
 
 
